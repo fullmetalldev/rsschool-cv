@@ -1,7 +1,13 @@
 # Нуреков Эрбол
-/n Telegram: https://t.me/fullmetalldev
-/n Phone: +996709398298
-/n Linkedin: https://www.linkedin.com/in/erbol-nurekov-b61802235/
+
+
+Telegram: https://t.me/fullmetalldev
+
+
+Phone: +996709398298
+
+
+Linkedin: https://www.linkedin.com/in/erbol-nurekov-b61802235/
 
 Меня зовут Эрбол, мне 18 лет, я из Бишкека. Увлекаюсь фронтенд разработкой и изучаю вот уже год, с августа 2021го года. 
 Сейчас работаю в айти компании Fortylines IO (с мая 2022 года). Люблю кодинг поэтому я за любой движ связанный с изучением разработки в целях 
@@ -11,7 +17,7 @@
 FireBase, шаблонизатор Thymeleaf, базово Java, Git, GitLab, GutHub, VS Code, Webstorm
 
 #Блок кода:
-''' 
+```
 function arrayDiff(a, b) {
   let res = [];
   a.map((item)=>{
@@ -21,7 +27,7 @@ function arrayDiff(a, b) {
   })
   return res
 }
-'''
+```
 
 # Опыт работы и Pet-проекты:
 Fortylines IO ( 2022-07 / now)
