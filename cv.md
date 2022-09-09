@@ -15,7 +15,7 @@ Linkedin: https://www.linkedin.com/in/erbol-nurekov-b61802235/
 
 # Стеки
 HTML5, CSS, SCSS, Sass, JavaScript, TypeScript, React, Redux, Recoil, методология BEM, 
-FireBase, шаблонизатор Thymeleaf, базово Java, Git, GitLab, GutHub, VS Code, Webstorm
+FireBase, шаблонизатор Thymeleaf, базово Java, Git, GitLab, GitHub, VS Code, Webstorm
 
 # Блок кода:
 ```
