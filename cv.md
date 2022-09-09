@@ -3,9 +3,7 @@
 
 Telegram: https://t.me/fullmetalldev
 
-
 Phone: +996709398298
-
 
 Linkedin: https://www.linkedin.com/in/erbol-nurekov-b61802235/
 
