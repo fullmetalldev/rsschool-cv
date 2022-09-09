@@ -8,7 +8,7 @@
 повышения квалификации и узнавания для себя чего то нового.
 
 Мои стеки: HTML5, CSS, SCSS, Sass, JavaScript, TypeScript, React, Redux, Recoil, методология BEM, 
-FireBase, шаблонизатор Thymeleaf, базово Java, Git, GitLab, GutHub.
+FireBase, шаблонизатор Thymeleaf, базово Java, Git, GitLab, GutHub, VS Code, Webstorm
 
 #Блок кода:
 ''' 
