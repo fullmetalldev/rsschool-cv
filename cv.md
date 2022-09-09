@@ -52,4 +52,4 @@ https://nedobinarnoe-derevo.vercel.app/
 Политехнический колледж - Программирование в компютерных сетях (2020.09 - 2023.06)
 IT-Run - Frontend Development (2021.08 - 2022.03)
 
-
+# Английский язык B1
