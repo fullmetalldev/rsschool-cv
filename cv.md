@@ -1,17 +1,19 @@
 # Нуреков Эрбол
 
-
+#Контакты
 Telegram: https://t.me/fullmetalldev
 
 Phone: +996709398298
 
 Linkedin: https://www.linkedin.com/in/erbol-nurekov-b61802235/
 
+#Обо мне
 Меня зовут Эрбол, мне 18 лет, я из Бишкека. Увлекаюсь фронтенд разработкой и изучаю вот уже год, с августа 2021го года. 
 Сейчас работаю в айти компании Fortylines IO (с мая 2022 года). Люблю кодинг поэтому я за любой движ связанный с изучением разработки в целях 
 повышения квалификации и узнавания для себя чего то нового.
 
-Мои стеки: HTML5, CSS, SCSS, Sass, JavaScript, TypeScript, React, Redux, Recoil, методология BEM, 
+#Стеки
+HTML5, CSS, SCSS, Sass, JavaScript, TypeScript, React, Redux, Recoil, методология BEM, 
 FireBase, шаблонизатор Thymeleaf, базово Java, Git, GitLab, GutHub, VS Code, Webstorm
 
 #Блок кода:
